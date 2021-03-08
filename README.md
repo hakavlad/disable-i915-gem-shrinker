@@ -2,4 +2,4 @@
 
 This patch disables DRM/i915 GEM shrinker. 
 
-This patch may be correctly applied to Linux 5.4 and Linux 5.10.
+This patch may be correctly applied (at least) to Linux 5.4—5.12-rc2.
